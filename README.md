@@ -1,20 +1,10 @@
-
-<!--<h1 align="center">
-  <a href="https://github.com/MuhammadBurhanArshad"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></a>
-</h1>-->
-
-<!--<p align="center">
-  <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D">
-</p>
-<br>-->
-
 <div align="center" style="display:flex;">
  <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadBurhanArshad&data=followers,repositories,commits&theme=radical" />
 </div>
 
 <a href="https://burhan.is-great.net"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Here are some of my statistics 🚀
+## Something about my activities 🚀
 
 <a href="https://github.com/MuhammadBurhanArshad"><img alt="MuhammadBurhanArshad's Top Languages By Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhanArshad&theme=radical" height="250px" width="33%" /></a>
 <a href="https://github.com/MuhammadBurhanArshad"><img alt="MuhammadBurhanArshad's Top Languages By Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhanArshad&theme=radical" height="250px" width="33%" /></a>
