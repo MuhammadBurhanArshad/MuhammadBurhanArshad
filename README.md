@@ -23,7 +23,7 @@ Hello, I'm Muhammad Burhan Arshad, a full-stack developer with 2 years of experi
 <a href="https://burhan.is-great.net"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- sample badge demo https://simpleicons.org/ -->
-## Profile
+<!--## Profile
 Property                 | Data  
 -------------------------|------
 Languages                | [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![XML Badge](https://img.shields.io/badge/-XML-FF6600?style=flat&logo=XML&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
@@ -36,73 +36,54 @@ Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-Muha
 
 
 
-
-<!--
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My Tech Stack</h2></summary>
-  </ul>
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,tailwind,bootstrap,vue,react,redux,nodejs,express,postgres,mongodb,mysql,aws,discord,docker,git,github,java,linux,postman,kubernetesreactnative&perline=14" />
-  </a>
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My Tech Stack</h2></summary>
-  </ul>
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,sql,mysql,ts,js,java,py,c,html,css,tailwind,bootstrap,jquery,react,vue,reactnative,laravel,django,flask,nodejs,flutter,mongodb,githubactions&perline=11" />
-  </a>
-</p>
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
- 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
-
-Last Edited on: 29/4/2023
-
 -->
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Tech Stack</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,php,py,c,java,laravel,tailwind,bootstrap,vue,pinia,react,redux,nodejs,express,postgres,mongodb,mysql,aws,flutter,django,flask,discord,docker,git,github,linux,ubuntu,postman,githubactions,kubernetesreactnative&perline=11" />
+  </a>
+</p>
 
 
-## Contact Me 🚀
+<!--<div id="user-content-toc"> -->
+<!--   <ul align="center"> -->
+<!--     <summary><h2 style="display: inline-block">Connect With Me</h2></summary> -->
+<!--   </ul> -->
+<!-- </div> -->
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammadburhanarshad)
-- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+923437649017)
-- [![Personal Website](https://img.shields.io/badge/-Personal%20Website-882D17?style=flat&logo=Google-Chrome&logoColor=white)](https://burhan.is-great.net)
+<p align="center">
+<!-- <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> -->
+<!-- <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>  -->
+<!-- <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> -->
+<!-- <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a> -->
+<!-- <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
+  
+</p>
 
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammadburhanarshad">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/+923437649017">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" />
+  </a>
+  <a href="https://burhan.is-great.net">
+    <img src="https://skillicons.dev/icons?i=chrome" alt="Website" />
+  </a>
+</p>
 
 
 <!--<a href="https://burhan.is-great.net"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>-->
