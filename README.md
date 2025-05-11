@@ -6,17 +6,21 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h2 align="center">My Activities 🚀</h2>
+<h2 align="center">My Activities</h2>
 
 <div align="center">
   <a href="https://github.com/MuhammadBurhanArshad">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhanArshad&theme=radical" height="250px" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhanArshad&theme=radical" height="250px" width="50%" />
   </a>
   <a href="https://github.com/MuhammadBurhanArshad">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhanArshad&theme=radical" height="250px" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhanArshad&theme=radical" height="250px" width="50%" />
+  </a>
+  <br>
+  <a href="https://github.com/MuhammadBurhanArshad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanArshad&langs_count=14&layout=compact&theme=radical&hide_border=true" height="250px" width="50%" />
   </a>
   <a href="https://github.com/MuhammadBurhanArshad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanArshad&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" width="32%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadburhanarshad&theme=radical" height="250px" width="50%" />
   </a>
   <br>
   <a href="https://github.com/MuhammadBurhanArshad">
@@ -29,6 +33,7 @@
   <a href="https://github.com/MuhammadBurhanArshad">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadBurhanArshad&theme=radical" height="250px" width="100%" />
   </a>
+
 </div>
 
 <div align="center">
