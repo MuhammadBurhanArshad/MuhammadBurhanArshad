@@ -5,8 +5,7 @@
   <p>Hello, I'm Muhammad Burhan Arshad, a full-stack developer with 2.5 years of experience.</p>
   <p>I am currently pursuing a bachelor's degree in computer science from SZABIST Karachi.</p>
   <p>I am an experienced researcher with a demonstrated history of working in the research industry.</p>
-  <p>I am skilled in web design, web development, cloud software,</p>
-  <p>artificial intelligence, machine learning, and computer vision.</p>
+  <p>I am skilled in web design, web development, cloud software, artificial intelligence, machine learning, and computer vision.</p>
 </div>
 
 <div align="center">
