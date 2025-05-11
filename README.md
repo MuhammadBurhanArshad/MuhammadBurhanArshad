@@ -10,30 +10,25 @@
 
 <div align="center">
   <a href="https://github.com/MuhammadBurhanArshad">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhanArshad&theme=radical" height="250px" width="50%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhanArshad&theme=radical&langs_count=10" height="250px" width="49%" />
   </a>
   <a href="https://github.com/MuhammadBurhanArshad">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhanArshad&theme=radical" height="250px" width="50%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhanArshad&theme=radical&langs_count=10" height="250px" width="49%" />
   </a>
-  <br>
+  
   <a href="https://github.com/MuhammadBurhanArshad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanArshad&langs_count=14&layout=compact&theme=radical&hide_border=true" height="250px" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanArshad&theme=radical&langs_count=10&layout=compact&hide_border=true" height="250px" width="49%" />
   </a>
   <a href="https://github.com/MuhammadBurhanArshad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadburhanarshad&theme=radical" height="250px" width="50%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadBurhanArshad&theme=radical" height="250px" width="49%" />
   </a>
-  <br>
+  
   <a href="https://github.com/MuhammadBurhanArshad">
     <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhanArshad&theme=radical&show_icons=true&hide_border=true" height="250px" width="49%" />
   </a>
   <a href="https://github.com/MuhammadBurhanArshad">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadBurhanArshad&theme=radical&hide_border=true" height="250px" width="49%" />
   </a>
-  <br>
-  <a href="https://github.com/MuhammadBurhanArshad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadBurhanArshad&theme=radical" height="250px" width="100%" />
-  </a>
-
 </div>
 
 <div align="center">
