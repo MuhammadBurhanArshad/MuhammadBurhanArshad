@@ -1,14 +1,26 @@
+
+<h2 align="center">About Me</h2>
+
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadBurhanArshad&data=followers,repositories,commits&theme=radical" />
+  <p>Hello, I'm Muhammad Burhan Arshad, a full-stack developer with 2.5 years of experience.</p>
+  <p>I am currently pursuing a bachelor's degree in computer science from SZABIST Karachi.</p>
+  <p>I am an experienced researcher with a demonstrated history of working in the research industry.</p>
+  <p>I am skilled in web design, web development, cloud software, Android development,</p>
+  <p>artificial intelligence, machine learning, and computer vision.</p>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+
 <h2 align="center">My Activities</h2>
 
 <div align="center">
+  <a a href="https://github.com/MuhammadBurhanArshad">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadBurhanArshad&data=followers,repositories,commits&theme=radical" />
+  </a>
+  
   <a href="https://github.com/MuhammadBurhanArshad">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhanArshad&theme=radical&langs_count=10" height="250px" width="49%" />
   </a>
@@ -29,20 +41,6 @@
   <a href="https://github.com/MuhammadBurhanArshad">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadBurhanArshad&theme=radical&hide_border=true" height="250px" width="49%" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<h2 align="center">About Me 💫</h2>
-
-<div align="center">
-  <p>Hello, I'm Muhammad Burhan Arshad, a full-stack developer with 2 years of experience.</p>
-  <p>I am currently pursuing a bachelor's degree in computer science from SZABIST Karachi.</p>
-  <p>I am an experienced researcher with a demonstrated history of working in the research industry.</p>
-  <p>I am skilled in web design, web development, cloud software, Android development,</p>
-  <p>artificial intelligence, machine learning, and computer vision.</p>
 </div>
 
 <div align="center">
