@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:C4A7E7,50:F6A6C1,100:9CCFD8&text=Muhammad%20Burhan%20Arshad&fontColor=0D1117&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Application%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:C4A7E7,50:F6A6C1,100:9CCFD8&text=Muhammad%20Burhan%20Arshad&fontColor=0D1117&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Application%20Security%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C4A7E7&center=true&vCenter=true&width=600&lines=Building+scalable+multi-tenant+SaaS;Securing+APIs+the+OWASP+way;Exploring+RAG+and+AI+agents" alt="Typing SVG" />
 
