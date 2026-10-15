@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-burhxn.vercel.app-C4A7E7?style=for-the-badge&labelColor=1F1D2E)](https://burhxn.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9CCFD8?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=1F1D2E)](https://linkedin.com/in/muhammadburhanarshad)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-F6A6C1?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=1F1D2E)](mailto:burhxn.arshad@gmail.com)
+<a href="https://burhxn.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/muhammadburhanarshad">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:burhxn.arshad@gmail.com">burhxn.arshad@gmail.com</a>
 
 </div>
 
@@ -34,13 +34,10 @@ BS Computer Science at SZABIST Karachi. Currently exploring RAG pipelines and AI
 
 <br/><br/>
 
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-C4A7E7?style=flat-square&labelColor=1F1D2E)
-![JWT](https://img.shields.io/badge/JWT-F6A6C1?style=flat-square&labelColor=1F1D2E)
-![RBAC](https://img.shields.io/badge/RBAC-9CCFD8?style=flat-square&labelColor=1F1D2E)
-![API Security](https://img.shields.io/badge/API%20Security-C4A7E7?style=flat-square&labelColor=1F1D2E)
-![RAG](https://img.shields.io/badge/RAG-F6A6C1?style=flat-square&labelColor=1F1D2E)
-![LangChain](https://img.shields.io/badge/LangChain-9CCFD8?style=flat-square&labelColor=1F1D2E)
-![pgvector](https://img.shields.io/badge/pgvector-C4A7E7?style=flat-square&labelColor=1F1D2E)
+<img src="https://cdn.simpleicons.org/owasp/C4A7E7" height="40" alt="OWASP" title="OWASP" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jsonwebtokens/F6A6C1" height="40" alt="JWT" title="JWT" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/9CCFD8" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/C4A7E7" height="40" alt="n8n" title="n8n" />
 
 </div>
 
@@ -50,10 +47,11 @@ BS Computer Science at SZABIST Karachi. Currently exploring RAG pipelines and AI
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhanArshad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4A7E7&icon_color=F6A6C1&text_color=E0DEF4&ring_color=9CCFD8" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanArshad&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4A7E7&text_color=E0DEF4" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhanArshad&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=C4A7E7&icon_color=F6A6C1&text_color=E0DEF4&ring_color=9CCFD8" alt="Stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBurhanArshad&theme=react-dark&hide_border=true&bg_color=0D1117&color=C4A7E7&line=F6A6C1&point=E0DEF4&area=true&area_color=C4A7E7&title_color=E0DEF4" alt="Commit Activity Graph" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MuhammadBurhanArshad&hide_border=true&background=0D1117&ring=C4A7E7&fire=F6A6C1&currStreakLabel=9CCFD8&sideLabels=E0DEF4&currStreakNum=E0DEF4&sideNums=E0DEF4&dates=8B8AA0" alt="Streak" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:9CCFD8,50:F6A6C1,100:C4A7E7&section=footer" width="100%" />
 
